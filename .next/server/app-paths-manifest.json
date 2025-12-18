@@ -6,5 +6,8 @@
   "/auth/page": "app/auth/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/page": "app/page.js",
-  "/profile/page": "app/profile/page.js"
+  "/payment-cancel/page": "app/payment-cancel/page.js",
+  "/payment-success/page": "app/payment-success/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/subscription/page": "app/subscription/page.js"
 }

@@ -6,5 +6,8 @@
   "/auth/page": "/auth",
   "/favicon.ico/route": "/favicon.ico",
   "/page": "/",
-  "/profile/page": "/profile"
+  "/payment-cancel/page": "/payment-cancel",
+  "/payment-success/page": "/payment-success",
+  "/profile/page": "/profile",
+  "/subscription/page": "/subscription"
 }
